@@ -72,3 +72,11 @@ Compile and run the C++ program, and follow the on-screen instructions to choose
 ![image](https://github.com/BilalMagomedov/Question_Bank/assets/53838499/06c90203-630b-4367-a084-f3de373539d6)
 ![image](https://github.com/BilalMagomedov/Question_Bank/assets/53838499/ae47cc19-1e46-48db-b6b8-9cab22d7972c)
 ![image](https://github.com/BilalMagomedov/Question_Bank/assets/53838499/e7c3b18b-3c11-4c35-8cc3-8977fe31828b)
+
+### Author
+
+[Bilal Magomedov]
+
+### Project Date
+
+[01.01.2024]
